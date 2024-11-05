@@ -16,8 +16,8 @@ public class NewClass {
 		String[] Santhosh= {"New","Santhosh"};
 		System.out.println(Santhosh);
 		
-		String[] i= {"Santhosh","Sanjay"};
-		for(String san:i) {
+		String[] s= {"Santhosh","Sanjay"};
+		for(String san:s) {
 			System.out.print("\t" + san);
 		}
 

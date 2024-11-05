@@ -15,11 +15,6 @@ public class NewClass {
 		}
 		String[] Santhosh= {"New","Santhosh"};
 		System.out.println(Santhosh);
-		
-		String[] i= {"Santhosh","Sanjay"};
-		for(String san:i) {
-			System.out.print("\t" + san);
-		}
 
 	}
 
