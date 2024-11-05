@@ -13,6 +13,7 @@ public class NewClass {
 		for(String san:s) {
 			System.out.print("\t" + san);
 		}
+		
 
 	}
 
