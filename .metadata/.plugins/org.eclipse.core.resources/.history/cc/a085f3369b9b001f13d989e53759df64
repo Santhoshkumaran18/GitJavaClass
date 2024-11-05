@@ -1,0 +1,33 @@
+package JavaProject;
+
+public class NewClass {
+
+	public static void main(String[] args) {
+		for(int i=0;i<10;i++) {
+			System.out.println(i);
+		}
+		for(int j=0;j<10;j++) {
+			System.out.println(j);
+		}
+		String[] s= {"Santhosh","Sanjay"};
+		for(String san:s) {
+			System.out.print("\t" + san);
+		}
+<<<<<<< HEAD
+		
+=======
+		String[] Santhosh= {"New","Santhosh"};
+		System.out.println(Santhosh);
+<<<<<<< HEAD
+		
+		String[] i= {"Santhosh","Sanjay"};
+		for(String san:i) {
+			System.out.print("\t" + san);
+		}
+=======
+>>>>>>> e39d53bb3c2de66d3e792b9d1c713bd854393bd5
+>>>>>>> 13960636e3d41b9cae451c5cc726bb9b2283a418
+
+	}
+
+}
