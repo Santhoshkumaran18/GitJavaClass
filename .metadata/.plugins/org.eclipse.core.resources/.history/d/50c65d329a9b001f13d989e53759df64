@@ -13,8 +13,6 @@ public class NewClass {
 		for(String san:s) {
 			System.out.print("\t" + san);
 		}
-		String[] Santhosh= {"New","Santhosh"};
-		System.out.println(Santhosh);
 
 	}
 
