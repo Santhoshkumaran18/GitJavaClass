@@ -21,6 +21,7 @@ public class NewClass {
 		for (String san : i) {
 			System.out.print("\t" + san);
 		}
+		System.out.println("Santhosh Kumaran S");
 
 	}
 
